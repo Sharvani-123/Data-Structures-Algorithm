@@ -1,3 +1,4 @@
+// implementing two stacks in an array
 #include <iostream>
 using namespace std;
 class Stack{
